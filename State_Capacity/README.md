@@ -1,11 +1,3 @@
-### India_Econ_Research
-
-Research for the Mercatus Center 
-
-Tableau dashboard: https://public.tableau.com/app/profile/keval/viz/1991Liberalization/GDPPerCapita
-
-### State Capacity vs Complexity 
-
 
 The general assumption is that with strong state capacity and economic development, complex rules will be enforced. Epstein argues that this complexity imposed creates private, public and social costs.
 
